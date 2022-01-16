@@ -1,3 +1,3 @@
-# firebase-cli
+# firebase
 
 Dockerized version of Firebase CLI
